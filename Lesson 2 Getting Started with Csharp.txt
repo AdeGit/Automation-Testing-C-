@@ -1,0 +1,39 @@
+This lessong provide information on what is needed for C# programming
+System Requirements
+1 Machine (Computer) with Windows 7 or above
+2.Visual studio 2010 or above; we are using 2019 for this course.
+Visual studio is an Integartion Development Enviroment (IDE) power full for the develpment of all kinds of applications
+Visual studio supported lot of languages: C#, Visual Basic,F#,C++,Python,Nodejs,HTML and JavaScript
+Visual studio helps with sprints planning 
+Visual studio helps advanced debugging automated and manual testing, and profiling 
+Visual studio helps with DevOps with automated developments and continuos monitoring 
+Download Visual studion from this website " https://visualstudio.microsoft.com/downloads/ " (you can scroll down for older version)
+for this download the community editions; it is cloase to professional 
+Follow the instruction on how to dowload from the website or watch a youtube video on how to download visual studion version of you choice
+
+once download search for the visual studio on your system
+
+Let us create first project 
+1 click on file --> click on New --> Project --> console App (.Net Core) with C# option. 
+2 Click next --> give your project a name --> click on create
+
+If properly created you project window will look like this 
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace CsharpBasic
+{
+    class program
+	
+    {
+	static void Main(string[] args) 
+    }
+}
+
+// Main is an entry point of the program without it the program will not work
+//Satic is a modifier
+//void is a return type
+//string[] is a string array
+//args is a variable of type string
