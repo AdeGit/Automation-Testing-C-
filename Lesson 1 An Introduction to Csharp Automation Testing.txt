@@ -1,0 +1,22 @@
+This lesson focus on C# for Automation Testing
+This course will help those in manual testing to learn Automation Testing 
+This lesson will help those new to Selinium tool for automation testing
+Thses lesson will not focu on some complex aspect of C# such has
+Threading
+Dynamic programming
+Networking
+Asynchronous programming
+Reflection
+Parallel programming
+Serialization etc
+
+But the lesson will focus on the following aspect of C# programming:
+Variables
+Object and classes
+Conditional statements and loop statements
+Operators
+Arrays and collections
+Generics
+Extension method 
+Thank you for eading this file. 
+The next file will provide you with what you need to get started. 
