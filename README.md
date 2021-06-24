@@ -1,7 +1,4 @@
-This project is to provide beginners' tutorial for automation testing using C# and Visual Studio IDE
-Lesson 1 provide Introduction to to C# for Automation Testing
-Lesson 2 getting started with with Visual studio 2019
-Lesson 3 understanding class and object
-Lesson 4 working with class and object
-Lesson 5 understanding type in in C#
-Lesson 7 
+# The Purpose of Project
+The purpose of this project is to investigate the the performance requirement of BEVs in an adequate way. 
+# Project Methodology 
+This is a data centric project, high frequency drive cycles data were collected. Also acceleration was determined using an accelerometer in addition to just driving it from GPS speed signal
