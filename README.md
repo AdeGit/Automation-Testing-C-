@@ -14,3 +14,5 @@ output is varied through active length scaling
 torque for four different slot sizes
 * Determination of the influence that four different slot sizes has on the total losses
 and max temperatures reached during various drive cycles
+# Battery electric vehicle (BEV) powertrain
+The power of a BEV consists of an electric drive system with battery serving as an energy buffer. 
