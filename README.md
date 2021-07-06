@@ -15,4 +15,8 @@ torque for four different slot sizes
 * Determination of the influence that four different slot sizes has on the total losses
 and max temperatures reached during various drive cycles
 # Battery electric vehicle (BEV) powertrain
-The power of a BEV consists of an electric drive system with battery serving as an energy buffer. 
+The power of a BEV consists of an electric drive system with the following:
+* Battery serving as an energy buffer.
+* Electric Machine (EM) of three phase AC type connected to the wheel shaft via gearbox and a diffrentia
+* AC/DC Power Electeronic converter converts the chemical energy stored in the battery into electrical energy connected to EM
+* Control System controls the frequency and magnitude of the three phase voltage that is applied to the electric machine   
